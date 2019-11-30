@@ -1,2 +1,2 @@
-# cuido_analytics
-Analytics for Cuido app
+# Cuido Analytics
+
